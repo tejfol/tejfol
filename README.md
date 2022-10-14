@@ -5,6 +5,7 @@
     <img src="https://github.com/tejfol/tejfol/blob/main/welcome.png" alt="Welcome">
     <img src="https://media.giphy.com/media/12zgyJya7QwQKI/giphy.gif" width="240" alt="chaos">
   </div>
+  <hr>
   <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
