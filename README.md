@@ -110,4 +110,12 @@
       height="40"
     />
   </a>
+  <a href="https://nuxt.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"
+      alt="nuxt-3"
+      width="40"
+      height="auto"
+    />
+  </a>
 </div>
