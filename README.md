@@ -3,7 +3,7 @@
 <div align="center">
   <div>
     <img src="https://github.com/tejfol/tejfol/blob/main/welcome.png" alt="Welcome">
-    <img src="https://media.giphy.com/media/12zgyJya7QwQKI/giphy.gif" width="240" alt="chaos">
+    <img src="https://github.com/tejfol/tejfol/blob/main/fire.gif" alt="FIRE">
   </div>
   <hr>
   <a href="https://www.linux.org/" target="_blank">
