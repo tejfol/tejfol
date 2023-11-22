@@ -1,12 +1,3 @@
-<h1 align="center">
-    _______ ______     _ ______ ____  _      
- |__   __|  ____|   | |  ____/ __ \| |     
-    | |  | |__      | | |__ | |  | | |     
-    | |  |  __| _   | |  __|| |  | | |     
-    | |  | |___| |__| | |   | |__| | |____ 
-    |_|  |______\____/|_|    \____/|______|                                 
-</h1>
-
 <div align="center">
   <div>
     <img src="https://github.com/tejfol/tejfol/blob/main/welcome.png" alt="Welcome">
